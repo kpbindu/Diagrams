@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-24T19:17:15.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="s3HQ1GugRnRthhxTs53m" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-24T19:34:42.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="JtaExT3cLAVnGjX1Ypmh" version="12.2.9" type="github" pages="1">
   <diagram id="OovXbAttzoKE74CgM4Tu" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="bLx-AzXkPhaiwz4-D9sa-34" value="10" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="bLx-AzXkPhaiwz4-D9sa-33">
           <mxGeometry x="-1" relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="bLx-AzXkPhaiwz4-D9sa-35" value="Confirm Payment&lt;br&gt;Download Button becomes visible" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;entryX=0.5;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bLx-AzXkPhaiwz4-D9sa-4">
+        <mxCell id="bLx-AzXkPhaiwz4-D9sa-35" value="Content Tranferred" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;entryX=0.5;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bLx-AzXkPhaiwz4-D9sa-4">
           <mxGeometry x="-0.2143" y="10" relative="1" as="geometry">
             <mxPoint x="894" y="600" as="sourcePoint"/>
             <mxPoint x="50" y="600" as="targetPoint"/>
