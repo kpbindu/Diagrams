@@ -1,61 +1,61 @@
-<mxfile host="www.draw.io" modified="2019-12-19T14:34:00.214Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="FW6B2EF4L-6_yKO4rCsv" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-19T14:37:06.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="VLem6CDneqCdnr7htv3e" version="12.4.3" type="github" pages="1">
   <diagram id="3XFEYAFnTxACrlNEXAh3" name="Page-1">
-    <mxGraphModel dx="2036" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-1" value="Daily Job On Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="52" height="62" as="geometry"/>
+          <mxGeometry x="80" y="200" width="52" height="62" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-2" value="`````" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="170" y="70" width="50" height="48" as="geometry"/>
+          <mxGeometry x="210" y="70" width="50" height="48" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-3" value="Neo User API&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="90" height="20" as="geometry"/>
+          <mxGeometry x="200" y="130" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-4" value="1. GetUsersList for DTE" style="endArrow=classic;html=1;entryX=0.14;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="202" as="sourcePoint"/>
-            <mxPoint x="177" y="116.01599999999996" as="targetPoint"/>
+            <mxPoint x="130" y="202" as="sourcePoint"/>
+            <mxPoint x="217" y="116.01599999999996" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-5" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="280" y="142" width="50" height="48" as="geometry"/>
+          <mxGeometry x="320" y="142" width="50" height="48" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-6" value="Neo Persistance API" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="130" height="20" as="geometry"/>
+          <mxGeometry x="280" y="200" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-7" value="2. Get Saved Search for Users" style="endArrow=classic;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WjCMefwxAz1S7F4nKkNT-1" target="WjCMefwxAz1S7F4nKkNT-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="230" as="sourcePoint"/>
-            <mxPoint x="230" y="180" as="targetPoint"/>
+            <mxPoint x="220" y="230" as="sourcePoint"/>
+            <mxPoint x="270" y="180" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-8" value="3. Identify Saves with Data Changes" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
-          <mxGeometry x="40" y="340" width="52" height="62" as="geometry"/>
+          <mxGeometry x="80" y="340" width="52" height="62" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="WjCMefwxAz1S7F4nKkNT-1" target="WjCMefwxAz1S7F4nKkNT-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="340" as="sourcePoint"/>
-            <mxPoint x="70" y="330" as="targetPoint"/>
+            <mxPoint x="80" y="340" as="sourcePoint"/>
+            <mxPoint x="110" y="330" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-11" value="4. Consolidate the list of emails" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="52" height="62" as="geometry"/>
+          <mxGeometry x="80" y="500" width="52" height="62" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="WjCMefwxAz1S7F4nKkNT-8" target="WjCMefwxAz1S7F4nKkNT-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="480" as="sourcePoint"/>
-            <mxPoint x="80" y="430" as="targetPoint"/>
+            <mxPoint x="70" y="480" as="sourcePoint"/>
+            <mxPoint x="120" y="430" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-13" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="310" y="500" width="50" height="48" as="geometry"/>
+          <mxGeometry x="350" y="500" width="50" height="48" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-14" value="" style="endArrow=classic;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WjCMefwxAz1S7F4nKkNT-11" target="WjCMefwxAz1S7F4nKkNT-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="570" as="sourcePoint"/>
-            <mxPoint x="160" y="520" as="targetPoint"/>
+            <mxPoint x="150" y="570" as="sourcePoint"/>
+            <mxPoint x="200" y="520" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-15" value="5.Call Neo Content Email API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="WjCMefwxAz1S7F4nKkNT-14">
@@ -64,15 +64,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-16" value="Neo Content Email API" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="548" width="140" height="20" as="geometry"/>
+          <mxGeometry x="305" y="548" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-17" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
-          <mxGeometry x="550" y="515.75" width="30" height="16.5" as="geometry"/>
+          <mxGeometry x="590" y="515.75" width="30" height="16.5" as="geometry"/>
         </mxCell>
         <mxCell id="WjCMefwxAz1S7F4nKkNT-18" value="6.Email Get Delivered" style="endArrow=classic;html=1;entryX=-0.133;entryY=0.848;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WjCMefwxAz1S7F4nKkNT-13" target="WjCMefwxAz1S7F4nKkNT-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="520" as="sourcePoint"/>
-            <mxPoint x="420" y="470" as="targetPoint"/>
+            <mxPoint x="410" y="520" as="sourcePoint"/>
+            <mxPoint x="460" y="470" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
